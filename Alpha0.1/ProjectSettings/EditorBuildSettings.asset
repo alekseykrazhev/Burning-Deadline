@@ -6,6 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: "Assets/\u0432/mainMenu.unity"
+    guid: b9bec573b70494246b9ad28252363f36
+  - enabled: 1
+    path: "Assets/\u0432/firstCutScene.unity"
+    guid: d67ad55ee4495a34eb6280c669cb029a
+  - enabled: 1
+    path: "Assets/\u0432/Room.unity"
+    guid: 44f130bd2a05d8a44bbf4d434834d351
+  - enabled: 1
+    path: "Assets/\u0432/secondCut.unity"
+    guid: e38e721d3e43a46469c35e2b220b6adb
+  - enabled: 1
+    path: "Assets/\u0432/Dormitory.unity"
+    guid: 067c2826f9bf9784ea251f6d1952c506
+  - enabled: 1
+    path: "Assets/\u0432/Outside.unity"
+    guid: b103e692e5e18324f83278f3c74d0774
+  - enabled: 1
+    path: "Assets/\u0432/thirdCut.unity"
+    guid: 2408e1c654581084fbf97e39a199817b
+  - enabled: 1
+    path: "Assets/\u0432/miniGame.unity"
+    guid: 97246eeec8cd18940b4565efc1fbe488
+  - enabled: 1
+    path: "Assets/\u0432/fourthCut.unity"
+    guid: 96fb807db14863e4d86a7da3fc4968fd
+  - enabled: 1
+    path: "Assets/\u0432/Classroom.unity"
+    guid: 5c3e00d3c94926a4196cc252f8f3fcc3
+  - enabled: 1
+    path: "Assets/\u0432/FinalCutScene.unity"
+    guid: 8186c9d474788b44bb79fbab0911994b
   m_configObjects: {}

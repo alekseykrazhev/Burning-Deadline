@@ -11,19 +11,19 @@ D:\unity\2020.3.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Alex/Alpha0.1
+C:/Users/Alex/Desktop/First-Part/Alpha0.1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61955
-Successfully changed project path to: C:/Users/Alex/Alpha0.1
-C:/Users/Alex/Alpha0.1
+61732
+Successfully changed project path to: C:/Users/Alex/Desktop/First-Part/Alpha0.1
+C:/Users/Alex/Desktop/First-Part/Alpha0.1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 60.38 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 42.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.7f1 (dd97f2c94397)
 [Subsystems] Discovering subsystems at path D:/unity/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Alex/Alpha0.1/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Alex/Desktop/First-Part/Alpha0.1/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -35,494 +35,422 @@ Initialize mono
 Mono path[0] = 'D:/unity/2020.3.7f1/Editor/Data/Managed'
 Mono path[1] = 'D:/unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56080
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56560
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/unity/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/unity/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001633 seconds.
+Registered in 0.001415 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 44.84 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 42.20 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.307 seconds
+- Completed reload, in  1.293 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001146 seconds.
+Registered in 0.001193 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 41.34 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 41.22 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.146 seconds
+- Completed reload, in  1.108 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 84.9 MB.
-System memory in use after: 84.9 MB.
+System memory in use after: 84.8 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2251.
-Total: 3.987500 ms (FindLiveObjects: 1.195300 ms CreateObjectMapping: 0.239900 ms MarkObjects: 2.390900 ms  DeleteObjects: 0.159400 ms)
+Total: 3.051100 ms (FindLiveObjects: 0.264700 ms CreateObjectMapping: 0.175600 ms MarkObjects: 2.392400 ms  DeleteObjects: 0.216500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/miniGame.png
-  artifactKey: Guid(2433caf1bbaf739469e215e690482708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/miniGame.png using Guid(2433caf1bbaf739469e215e690482708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf43eb1dc05930a06f0d2740ba436b8d') in 0.172501 seconds
-  Import took 0.176837 seconds .
+  path: Assets/Scenes
+  artifactKey: Guid(60e4273158d65764b8bb19870eeb4e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(60e4273158d65764b8bb19870eeb4e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648fc8c90127b7d36f91c65ee337a3eb') in 0.005671 seconds
+  Import took 0.012459 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000341 seconds.
-  path: Assets/Scenes/Menu.unity
-  artifactKey: Guid(1adeb580c4fe440409638fe3e2b8cbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Menu.unity using Guid(1adeb580c4fe440409638fe3e2b8cbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507386bfdaa4d4b92deaa00730d0e591') in 0.003671 seconds
-  Import took 0.008107 seconds .
+  Time since last request: 78.025865 seconds.
+  path: Assets/Scenes/CutScene.unity
+  artifactKey: Guid(8186c9d474788b44bb79fbab0911994b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CutScene.unity using Guid(8186c9d474788b44bb79fbab0911994b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f57232c3bd344764de216e11ee1fa065') in 0.021475 seconds
+  Import took 0.028716 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.705676 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dced07946141a818ed93299133b55e1') in 0.004365 seconds
-  Import took 0.009970 seconds .
+  Time since last request: 46.613837 seconds.
+  path: Assets/Scenes/FinalCutScene.unity
+  artifactKey: Guid(8186c9d474788b44bb79fbab0911994b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FinalCutScene.unity using Guid(8186c9d474788b44bb79fbab0911994b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261319fa3d6915a69151c52d48fb5a39') in 0.003487 seconds
+  Import took 0.010637 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001317 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dced07946141a818ed93299133b55e1') in 0.004749 seconds
-  Import took 0.009457 seconds .
+  Time since last request: 6.447943 seconds.
+  path: Assets/Scenes/Final.mp4
+  artifactKey: Guid(8a421465cf7a59549ac73ac357430818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Final.mp4 using Guid(8a421465cf7a59549ac73ac357430818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845195e86ce3c67d8ff52f1e65f9625c') in 0.088042 seconds
+  Import took 0.093061 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001111 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.356 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 3.856600 ms (FindLiveObjects: 0.406300 ms CreateObjectMapping: 0.231000 ms MarkObjects: 3.040200 ms  DeleteObjects: 0.177100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001249 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.407 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 3.913200 ms (FindLiveObjects: 0.315500 ms CreateObjectMapping: 0.093700 ms MarkObjects: 3.079300 ms  DeleteObjects: 0.422000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.102 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 4.041100 ms (FindLiveObjects: 0.323100 ms CreateObjectMapping: 0.101800 ms MarkObjects: 3.419700 ms  DeleteObjects: 0.194400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001110 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.200 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2267.
+Total: 2.402100 ms (FindLiveObjects: 0.383800 ms CreateObjectMapping: 0.083900 ms MarkObjects: 1.768400 ms  DeleteObjects: 0.163800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.360768 seconds.
-  path: Assets/Scenes/scripts
-  artifactKey: Guid(f95a96f3799c9bf4b88f0040b0e45fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/scripts using Guid(f95a96f3799c9bf4b88f0040b0e45fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893cdf93f78ad55b792201a26808ecb8') in 0.003467 seconds
-  Import took 0.007925 seconds .
+  Time since last request: 61.259827 seconds.
+  path: Assets/Scenes/back.gif
+  artifactKey: Guid(c70923873a3e08949975d5572df41bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/back.gif using Guid(c70923873a3e08949975d5572df41bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a2d41c94ea851c2b6f534985197fe5') in 0.027810 seconds
+  Import took 0.033122 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.002679 seconds.
-  path: Assets/Scenes/scripts
-  artifactKey: Guid(f95a96f3799c9bf4b88f0040b0e45fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/scripts using Guid(f95a96f3799c9bf4b88f0040b0e45fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893cdf93f78ad55b792201a26808ecb8') in 0.004211 seconds
-  Import took 0.009507 seconds .
+  Time since last request: 0.030949 seconds.
+  path: Assets/Scenes/back.gif
+  artifactKey: Guid(c70923873a3e08949975d5572df41bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/back.gif using Guid(c70923873a3e08949975d5572df41bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a2d41c94ea851c2b6f534985197fe5') in 0.004076 seconds
+  Import took 0.009750 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 24992.944138 seconds.
-  path: Assets/Objects/playerClimb/kl_000.png
-  artifactKey: Guid(40881e48881a58248bdc48e2dd167920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_000.png using Guid(40881e48881a58248bdc48e2dd167920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8116b7e9492dffc67a8d583a8651a2') in 0.038704 seconds
-  Import took 0.044584 seconds .
+  Time since last request: 129.823228 seconds.
+  path: Assets/Objects/menuBackground.png
+  artifactKey: Guid(06554a7ed8934f04a8b17f90ba7f3ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/menuBackground.png using Guid(06554a7ed8934f04a8b17f90ba7f3ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7bc90805956cffe95bcb252c32d8ebf') in 0.099924 seconds
+  Import took 0.105330 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000309 seconds.
-  path: Assets/Objects/playerClimb/kl_024.png
-  artifactKey: Guid(8a3d4fcb7f69ebf4bb794d03e2d2f567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_024.png using Guid(8a3d4fcb7f69ebf4bb794d03e2d2f567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470017621364806dbcb5c1a617b63304') in 0.018788 seconds
-  Import took 0.025580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000470 seconds.
-  path: Assets/Objects/playerClimb/kl_010.png
-  artifactKey: Guid(f0c16035d80acf0439412749f7330df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_010.png using Guid(f0c16035d80acf0439412749f7330df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab0d8438e10d06669d32c2a1cd67bdb') in 0.018580 seconds
-  Import took 0.026045 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000353 seconds.
-  path: Assets/Objects/playerClimb/kl_006.png
-  artifactKey: Guid(2558c05ad478cef45be806a735a8b273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_006.png using Guid(2558c05ad478cef45be806a735a8b273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe520663172144c8031cb1593f6f1b1b') in 0.025037 seconds
-  Import took 0.030049 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Objects/playerClimb/kl_013.png
-  artifactKey: Guid(c953df858d60b564a9a18114613ca356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_013.png using Guid(c953df858d60b564a9a18114613ca356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95b02e95863c64e329859dd08f60246') in 0.021489 seconds
-  Import took 0.028227 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/Objects/playerClimb/kl_015.png
-  artifactKey: Guid(625235e66612d174ba04742c20ae14de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_015.png using Guid(625235e66612d174ba04742c20ae14de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de539895c6fa147d36ff195ec1a8442') in 0.019141 seconds
-  Import took 0.025754 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/Objects/playerClimb/kl_027.png
-  artifactKey: Guid(43b3a5c3972c2124ca1e3b7d33d129dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_027.png using Guid(43b3a5c3972c2124ca1e3b7d33d129dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342b3d311282bd44ffd92c164960c989') in 0.020364 seconds
-  Import took 0.026667 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000349 seconds.
-  path: Assets/Objects/playerClimb/kl_026.png
-  artifactKey: Guid(4ec867f75abb733479d345c2c123fe8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_026.png using Guid(4ec867f75abb733479d345c2c123fe8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ffc824f11c55d1a42899cb85660649') in 0.025243 seconds
-  Import took 0.031838 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000510 seconds.
-  path: Assets/Objects/playerClimb/kl_007.png
-  artifactKey: Guid(e18076f3902f3a44f9fc83293637a978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_007.png using Guid(e18076f3902f3a44f9fc83293637a978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d291f9e0bcccef280261b0ab0eeae25') in 0.020277 seconds
-  Import took 0.027647 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000425 seconds.
-  path: Assets/Objects/playerClimb/kl_017.png
-  artifactKey: Guid(d798e3127a7cf194e86198dcedf4f761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_017.png using Guid(d798e3127a7cf194e86198dcedf4f761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad61337341cc31703ee9a206575f6f40') in 0.020716 seconds
-  Import took 0.028287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000337 seconds.
-  path: Assets/Objects/playerClimb/kl_002.png
-  artifactKey: Guid(3f688228936c4bb41860f868e3f0e449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_002.png using Guid(3f688228936c4bb41860f868e3f0e449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861c0cb4ceb28d82db1c0e87ca9caa46') in 0.019651 seconds
-  Import took 0.026323 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000330 seconds.
-  path: Assets/Objects/playerClimb/kl_004.png
-  artifactKey: Guid(bb2a69713974de844a9f10ceadb864b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_004.png using Guid(bb2a69713974de844a9f10ceadb864b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be2d7c46216e80b6432e031e29267e8') in 0.024519 seconds
-  Import took 0.030887 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Objects/playerClimb/kl_032.png
-  artifactKey: Guid(8d4e165dbeb21c842ac80d9bd0117f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_032.png using Guid(8d4e165dbeb21c842ac80d9bd0117f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389f6ff70c40195b5eac824d18f13f6d') in 0.020425 seconds
-  Import took 0.026245 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000371 seconds.
-  path: Assets/Objects/playerClimb/kl_008.png
-  artifactKey: Guid(cb457f4b216304a479b1c1d289d93db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_008.png using Guid(cb457f4b216304a479b1c1d289d93db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65151b19088826768074b404c682f800') in 0.017866 seconds
-  Import took 0.023907 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/Objects/playerClimb/kl_016.png
-  artifactKey: Guid(39164a9bf0935a5469dbb7e86e55dbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_016.png using Guid(39164a9bf0935a5469dbb7e86e55dbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace3cd9c88c423913e7b3918eb05c07c') in 0.021918 seconds
-  Import took 0.030228 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/Objects/playerClimb/kl_001.png
-  artifactKey: Guid(4a829dd278d3d0543825a3393cbb79a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_001.png using Guid(4a829dd278d3d0543825a3393cbb79a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '167d8bd95717c752fdda501b7c8a5ec4') in 0.021535 seconds
-  Import took 0.025732 seconds .
+  Time since last request: 0.000277 seconds.
+  path: Assets/Objects/Player.png
+  artifactKey: Guid(7eeb1535d6b8f374d921a6cd79b70742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Player.png using Guid(7eeb1535d6b8f374d921a6cd79b70742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d685083bc2a5fef2e1b51371fa2eea') in 0.045428 seconds
+  Import took 0.050045 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000273 seconds.
-  path: Assets/Objects/playerClimb/kl_011.png
-  artifactKey: Guid(c785719c002b2e147b458a24d555a209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_011.png using Guid(c785719c002b2e147b458a24d555a209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715e4364487b6b67786b0837bd5ad0a0') in 0.016868 seconds
-  Import took 0.022302 seconds .
+  path: Assets/Objects/для_карточка.png
+  artifactKey: Guid(9c15edf1041b55a4b81c1a6c624288f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/для_карточка.png using Guid(9c15edf1041b55a4b81c1a6c624288f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f82d93010a230ef78891b99e4b8ad154') in 0.020505 seconds
+  Import took 0.025723 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.186130 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 2.474000 ms (FindLiveObjects: 0.304000 ms CreateObjectMapping: 0.087200 ms MarkObjects: 1.964900 ms  DeleteObjects: 0.116400 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000434 seconds.
-  path: Assets/Objects/playerClimb/kl_025.png
-  artifactKey: Guid(e40a25d1760468340b7e69da7a5f27bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_025.png using Guid(e40a25d1760468340b7e69da7a5f27bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2805fcb54006f570c7a68d697b599b1') in 0.016702 seconds
-  Import took 0.023598 seconds .
+  Time since last request: 5.815296 seconds.
+  path: Assets/Objects/PA.scon
+  artifactKey: Guid(144e0773528a1144eb9364d85e587715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/PA.scon using Guid(144e0773528a1144eb9364d85e587715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0688a92f988bcabe24370f22b15ca79') in 0.164634 seconds
+  Import took 0.169386 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Objects/playerClimb/kl_014.png
-  artifactKey: Guid(5519f42b34d5b784385fe901df748196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_014.png using Guid(5519f42b34d5b784385fe901df748196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75446743011d869820679ed775cb2cd8') in 0.021934 seconds
-  Import took 0.029191 seconds .
+  Time since last request: 3.639206 seconds.
+  path: Assets/Objects/playerJump
+  artifactKey: Guid(d6ba60daf9fed1844ac1189691618e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/playerJump using Guid(d6ba60daf9fed1844ac1189691618e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f4d37640b96c7a3fab20c0a88035d5b') in 0.003786 seconds
+  Import took 0.010402 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000718 seconds.
-  path: Assets/Objects/playerClimb/kl_028.png
-  artifactKey: Guid(ab640044e1c063c40a221b448b980e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_028.png using Guid(ab640044e1c063c40a221b448b980e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2385766eab2d11632a55c0c4e027f29') in 0.017412 seconds
-  Import took 0.023044 seconds .
+  Time since last request: 1.933750 seconds.
+  path: Assets/Objects/playerClimb
+  artifactKey: Guid(75f2d5bfe6433694d8986f7ae34b0d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/playerClimb using Guid(75f2d5bfe6433694d8986f7ae34b0d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3d018c98827b1efb38638249649db1a') in 0.003303 seconds
+  Import took 0.010152 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Objects/playerClimb/kl_039.png
-  artifactKey: Guid(c9287e59593432948a2d3624529c9cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_039.png using Guid(c9287e59593432948a2d3624529c9cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3d2d8aa97d0af12a89951065d57caa') in 0.018685 seconds
-  Import took 0.024003 seconds .
+  Time since last request: 1.663916 seconds.
+  path: Assets/Objects/Player
+  artifactKey: Guid(1fe1ad1f590650f4b9e1401260d80958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Player using Guid(1fe1ad1f590650f4b9e1401260d80958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2ab434ae5aae8f3806eef58bcaa515') in 0.003567 seconds
+  Import took 0.010912 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000755 seconds.
-  path: Assets/Objects/playerClimb/kl_030.png
-  artifactKey: Guid(36e06fa8913d5d443a9cfdcf1b6bf17a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_030.png using Guid(36e06fa8913d5d443a9cfdcf1b6bf17a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '877edd8f512b78eada0795b19dca24be') in 0.018250 seconds
-  Import took 0.023560 seconds .
+  Time since last request: 29.131495 seconds.
+  path: Assets/Objects
+  artifactKey: Guid(fd4c114c407cbee4b89cde2718ea986e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects using Guid(fd4c114c407cbee4b89cde2718ea986e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252bbac80654bc4fea3aef9eb244db31') in 0.003797 seconds
+  Import took 0.009180 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Objects/playerClimb/kl_020.png
-  artifactKey: Guid(e0b05c89c130f3b4989943649cfb0893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_020.png using Guid(e0b05c89c130f3b4989943649cfb0893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '086aceeb0811290dd8005b5b443e1469') in 0.021642 seconds
-  Import took 0.027139 seconds .
+  Time since last request: 0.000739 seconds.
+  path: Assets/Objects
+  artifactKey: Guid(fd4c114c407cbee4b89cde2718ea986e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects using Guid(fd4c114c407cbee4b89cde2718ea986e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252bbac80654bc4fea3aef9eb244db31') in 0.001947 seconds
+  Import took 0.007113 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/Objects/playerClimb/kl_021.png
-  artifactKey: Guid(3d656f6d97c59e94d9deb00b7136b6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_021.png using Guid(3d656f6d97c59e94d9deb00b7136b6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b558c3e30a4e83d6a9c4efba9d2ad0') in 0.018604 seconds
-  Import took 0.024031 seconds .
+  Time since last request: 13.714677 seconds.
+  path: Assets/Objects/Buttons
+  artifactKey: Guid(a8928668886d56a4c9aa3711fe7262f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Buttons using Guid(a8928668886d56a4c9aa3711fe7262f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31efb72be936964c3b1ac56a2adf7c47') in 0.006738 seconds
+  Import took 0.012144 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Objects/playerClimb/kl_023.png
-  artifactKey: Guid(1f78227990103684e9013e3ad0dce5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_023.png using Guid(1f78227990103684e9013e3ad0dce5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659d4c6eeafbf74a6af61f453c43ccd3') in 0.020006 seconds
-  Import took 0.025833 seconds .
+  Time since last request: 8.606436 seconds.
+  path: Assets/Objects/Buttons/continue(2).png
+  artifactKey: Guid(432333a8fdf0cce49a28ed9528e4964d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Buttons/continue(2).png using Guid(432333a8fdf0cce49a28ed9528e4964d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8639906ab8af60fc76f585465de417cc') in 0.061052 seconds
+  Import took 0.065502 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000753 seconds.
-  path: Assets/Objects/playerClimb/kl_033.png
-  artifactKey: Guid(78629eb392773fb4cb09981de02bf70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_033.png using Guid(78629eb392773fb4cb09981de02bf70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7888e2a9b63a743ef665e0bdda5beb25') in 0.015731 seconds
-  Import took 0.020666 seconds .
+  Time since last request: 1.523042 seconds.
+  path: Assets/Objects/Buttons/exit (2).png
+  artifactKey: Guid(62848f65f526a0d45b172b1385474528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Buttons/exit (2).png using Guid(62848f65f526a0d45b172b1385474528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1798b95823501e7ddf0f965588c0300a') in 0.022133 seconds
+  Import took 0.029770 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Objects/playerClimb/kl_036.png
-  artifactKey: Guid(5f1151a2d824ca14591c103139547154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_036.png using Guid(5f1151a2d824ca14591c103139547154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48090fabd06acf7c4c4b602db59e9a1') in 0.024772 seconds
-  Import took 0.030271 seconds .
+  Time since last request: 0.001340 seconds.
+  path: Assets/Objects/Buttons/exit (2).png
+  artifactKey: Guid(62848f65f526a0d45b172b1385474528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Buttons/exit (2).png using Guid(62848f65f526a0d45b172b1385474528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1798b95823501e7ddf0f965588c0300a') in 0.011057 seconds
+  Import took 0.016648 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Objects/playerClimb/kl_038.png
-  artifactKey: Guid(1a4610226d99de341b19d1fb37b1cb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_038.png using Guid(1a4610226d99de341b19d1fb37b1cb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a32ba0bc5fcb836e0f3709f5272927') in 0.021861 seconds
-  Import took 0.026929 seconds .
+  Time since last request: 3.230306 seconds.
+  path: Assets/Objects/Buttons/start (2).png
+  artifactKey: Guid(c9cfc99294b132f42a9192e60c315987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Buttons/start (2).png using Guid(c9cfc99294b132f42a9192e60c315987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5800c91fde5461f6490d4a3dbe76da87') in 0.023062 seconds
+  Import took 0.027822 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Objects/playerClimb/kl_012.png
-  artifactKey: Guid(4505c038de186774c9d3aaf64b98ccec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_012.png using Guid(4505c038de186774c9d3aaf64b98ccec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c28e24d80c445ba2911b0cc27701ab8') in 0.021281 seconds
-  Import took 0.025668 seconds .
+  Time since last request: 0.003916 seconds.
+  path: Assets/Objects/Buttons/start (2).png
+  artifactKey: Guid(c9cfc99294b132f42a9192e60c315987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Buttons/start (2).png using Guid(c9cfc99294b132f42a9192e60c315987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5800c91fde5461f6490d4a3dbe76da87') in 0.018110 seconds
+  Import took 0.023442 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/Objects/playerClimb/kl_035.png
-  artifactKey: Guid(44679013120eafe4ea6d927185691b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_035.png using Guid(44679013120eafe4ea6d927185691b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a8b77b22321bc879e3bafb038d1200') in 0.034425 seconds
-  Import took 0.042430 seconds .
+  Time since last request: 71.347399 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(57096fd156de5b248813c5ebfd9a06bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(57096fd156de5b248813c5ebfd9a06bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e3539328cccbde0fee33ba2cdc1a97') in 0.010986 seconds
+  Import took 0.016043 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Objects/playerClimb/kl_037.png
-  artifactKey: Guid(d0bd862a4e5eb5941a67db482f8bd2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_037.png using Guid(d0bd862a4e5eb5941a67db482f8bd2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c434bd58c1e2513ab96d548c17d31d') in 0.020702 seconds
-  Import took 0.027682 seconds .
+  Time since last request: 0.002090 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(57096fd156de5b248813c5ebfd9a06bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(57096fd156de5b248813c5ebfd9a06bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e3539328cccbde0fee33ba2cdc1a97') in 0.002461 seconds
+  Import took 0.006972 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.984 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 3.137900 ms (FindLiveObjects: 0.266500 ms CreateObjectMapping: 0.167600 ms MarkObjects: 2.524600 ms  DeleteObjects: 0.177700 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000782 seconds.
-  path: Assets/Objects/playerClimb/kl_034.png
-  artifactKey: Guid(dfd6eb20bdcfc6a478f8072e201deb06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_034.png using Guid(dfd6eb20bdcfc6a478f8072e201deb06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767865c981b5b282943f269dc8f5df9d') in 0.017919 seconds
-  Import took 0.023955 seconds .
+  Time since last request: 21.329834 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(5eef0983f2e5db44c8c7b6422998dcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(5eef0983f2e5db44c8c7b6422998dcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a84576ed6d361fce8f59de94374d50') in 0.005903 seconds
+  Import took 0.011319 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Objects/playerClimb/kl_029.png
-  artifactKey: Guid(727490f0455415b4e8ff35645c50c7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_029.png using Guid(727490f0455415b4e8ff35645c50c7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0537aec86edd91aa1db59616548beab8') in 0.022002 seconds
-  Import took 0.028367 seconds .
+  Time since last request: 0.008773 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(5eef0983f2e5db44c8c7b6422998dcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(5eef0983f2e5db44c8c7b6422998dcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a84576ed6d361fce8f59de94374d50') in 0.002021 seconds
+  Import took 0.007658 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Objects/playerClimb/kl_019.png
-  artifactKey: Guid(35c2c0f6c673e9247a5c91436d2ef555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_019.png using Guid(35c2c0f6c673e9247a5c91436d2ef555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091c7ea05b59e998ab3f2a4d45dfd801') in 0.016647 seconds
-  Import took 0.022274 seconds .
+  Time since last request: 25.347203 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(06643b7aaa6276344b56d94183869f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Menu.cs using Guid(06643b7aaa6276344b56d94183869f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86c32b8c90e28a4e36d0f06f599526ed') in 0.006970 seconds
+  Import took 0.013014 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001980 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.758 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 4.563900 ms (FindLiveObjects: 0.617500 ms CreateObjectMapping: 0.197300 ms MarkObjects: 3.583300 ms  DeleteObjects: 0.163100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001102 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.259 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 2.746300 ms (FindLiveObjects: 0.291800 ms CreateObjectMapping: 0.104800 ms MarkObjects: 2.178200 ms  DeleteObjects: 0.168800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Objects/playerClimb/kl_003.png
-  artifactKey: Guid(7a2467091d3cfa847b985ce3e457bf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_003.png using Guid(7a2467091d3cfa847b985ce3e457bf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b06a0dd662775e26dc08aaa4c5fba42a') in 0.018288 seconds
-  Import took 0.024774 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000317 seconds.
-  path: Assets/Objects/playerClimb/kl_009.png
-  artifactKey: Guid(add08e38b95160e4d8603e0f0efb42eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_009.png using Guid(add08e38b95160e4d8603e0f0efb42eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd87271b787dbc0544cc7f24475fec4e') in 0.015735 seconds
-  Import took 0.021950 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000397 seconds.
-  path: Assets/Objects/playerClimb/kl_018.png
-  artifactKey: Guid(0b7e0784435b4b640b77281314c6dd63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_018.png using Guid(0b7e0784435b4b640b77281314c6dd63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d9c2883fe5bf8739d86ff16e2e59bb') in 0.025369 seconds
-  Import took 0.033991 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000358 seconds.
-  path: Assets/Objects/playerClimb/kl_022.png
-  artifactKey: Guid(a08103766624e4a43a85af4abfc635de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_022.png using Guid(a08103766624e4a43a85af4abfc635de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd390688d07225bcebc9f79099585a4') in 0.019407 seconds
-  Import took 0.028944 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000352 seconds.
-  path: Assets/Objects/playerClimb/kl_005.png
-  artifactKey: Guid(8198dfb1aeda2094db985b1b05555691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_005.png using Guid(8198dfb1aeda2094db985b1b05555691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0b1fd95bcb3936455d18aabcdbf9e1') in 0.022462 seconds
-  Import took 0.033915 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000720 seconds.
-  path: Assets/Objects/playerClimb/kl_031.png
-  artifactKey: Guid(c88fbe36d5856d242a271b72ef0967f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/playerClimb/kl_031.png using Guid(c88fbe36d5856d242a271b72ef0967f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba945d1520d5c2fce711388a91a7ba18') in 0.039468 seconds
-  Import took 0.046202 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.930676 seconds.
-  path: Assets/timelineMiniGame/cardTimeline.playable
-  artifactKey: Guid(6e736aee944eabe4c835a7d091a07c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/timelineMiniGame/cardTimeline.playable using Guid(6e736aee944eabe4c835a7d091a07c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac79c4b69a6303a5f97c0e468bbe31c') in 0.029879 seconds
-  Import took 0.034202 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/timelineMiniGame/miniGameAnimation.playable
-  artifactKey: Guid(64fbc9ecc2dba8649a2ea1976874334f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/timelineMiniGame/miniGameAnimation.playable using Guid(64fbc9ecc2dba8649a2ea1976874334f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0632b7e0a5e29f4c1fb988f0a2de75') in 0.002936 seconds
-  Import took 0.006985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.557160 seconds.
-  path: Packages/com.unity.2d.path/package.json
-  artifactKey: Guid(990785fe75c54584ab4201a3e20e1655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.path/package.json using Guid(990785fe75c54584ab4201a3e20e1655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63f310ce75b7d17c92b8d4dbe972eaa') in 0.018636 seconds
-  Import took 0.023879 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.538140 seconds.
-  path: Packages/com.unity.2d.common/package.json
-  artifactKey: Guid(68f1917ec3cac45b080c26153375c2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.common/package.json using Guid(68f1917ec3cac45b080c26153375c2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7034d33d8a6ab136d62ac8c79f618b77') in 0.013271 seconds
-  Import took 0.020523 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.778174 seconds.
-  path: Packages/com.unity.collab-proxy/package.json
-  artifactKey: Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.collab-proxy/package.json using Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71dc523ff1efa8b9365b0c14f4c3e365') in 0.020868 seconds
-  Import took 0.034575 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.883395 seconds.
-  path: Packages/com.unity.textmeshpro/package.json
-  artifactKey: Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.textmeshpro/package.json using Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e25d0a48461e4140ae0c6d15f84045') in 0.013932 seconds
-  Import took 0.024588 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.330132 seconds.
-  path: Packages/com.unity.2d.tilemap/package.json
-  artifactKey: Guid(51797d68d3132bb419217a229e09fc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.tilemap/package.json using Guid(51797d68d3132bb419217a229e09fc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35bbc00dcf5663adf04400b55462d001') in 0.015264 seconds
-  Import took 0.024437 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.067482 seconds.
-  path: Packages/com.unity.2d.spriteshape/package.json
-  artifactKey: Guid(4eabc3d1ad1424372b03cfc117521e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.spriteshape/package.json using Guid(4eabc3d1ad1424372b03cfc117521e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f922e9a253d703b3311e2770e04e373d') in 0.021997 seconds
-  Import took 0.036704 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.533503 seconds.
-  path: Packages/com.unity.2d.sprite/package.json
-  artifactKey: Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.sprite/package.json using Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ee72f0dc183ed75d56aac97bddca5b') in 0.021114 seconds
-  Import took 0.034841 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.925362 seconds.
-  path: Packages/com.unity.2d.psdimporter/package.json
-  artifactKey: Guid(2f948ecb81c850949a2725b1ba265844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.psdimporter/package.json using Guid(2f948ecb81c850949a2725b1ba265844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c0a50ef05e27628d8f5eab6bee28e5d') in 0.015770 seconds
-  Import took 0.025562 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.968754 seconds.
-  path: Packages/com.unity.2d.pixel-perfect/package.json
-  artifactKey: Guid(b1c570008ebc15d4183516ca5722a39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.pixel-perfect/package.json using Guid(b1c570008ebc15d4183516ca5722a39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a3827af76e8b73fb47cd214b92cca7') in 0.025220 seconds
-  Import took 0.038920 seconds .
+  Time since last request: 99.396539 seconds.
+  path: Assets/Scenes/classroom.png
+  artifactKey: Guid(929877f8b300dc14a92d8f90ba8ffde9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/classroom.png using Guid(929877f8b300dc14a92d8f90ba8ffde9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6d11892981ab51e815be0e247166f81') in 0.091671 seconds
+  Import took 0.099572 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
